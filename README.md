@@ -1,3 +1,5 @@
+[![Makefile CI](https://github.com/jyvet/multirw/actions/workflows/makefile.yml/badge.svg)](https://github.com/jyvet/multirw/actions/workflows/makefile.yml)
+
 MultiRW
 =======
 
