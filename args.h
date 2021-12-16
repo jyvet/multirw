@@ -34,7 +34,7 @@
 #define CACHE_BYPASS_DEFAULT  false
 #define MMAP_DEFAULT          false
 #define RUNTIME_SEC_DEFAULT   10 /* 10 seconds */
-#define IO_BURST_COUNT       (64 * 1024)
+#define IO_BURST_COUNT        1000
 
 typedef enum
 {
